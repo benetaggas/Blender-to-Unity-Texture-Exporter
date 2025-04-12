@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 79e6c3d09aae03144bb3738858aa8969, type: 3}
-  m_Name: Example
+  m_Name: Camo_Variant 5
   m_EditorClassIdentifier: 
-  whiteReplacement: {r: 1, g: 0.08238121, b: 0.026641887, a: 1}
-  grayReplacement: {r: 0.024952546, g: 0.49803922, b: 0.015686266, a: 1}
-  blackReplacement: {r: 0.095244475, g: 0.046119615, b: 0.7001649, a: 1}
+  whiteReplacement: {r: 0.06310386, g: 0.026620936, b: 1, a: 1}
+  grayReplacement: {r: 1, g: 0.5836551, b: 0.009618809, a: 1}
+  blackReplacement: {r: 1, g: 0, b: 0.0013733337, a: 1}
