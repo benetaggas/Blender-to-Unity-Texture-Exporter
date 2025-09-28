@@ -1,4 +1,3 @@
-
 ## Technical Specifications
 
 - **Unity Version**: 6.0.0.41f1
